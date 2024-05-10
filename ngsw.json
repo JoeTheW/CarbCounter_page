@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1715347921149,
+  "timestamp": 1715371752684,
   "index": "https://joethew.github.io/CarbCounter_page/index.html",
   "assetGroups": [
     {
@@ -17,7 +17,7 @@
         "https://joethew.github.io/CarbCounter_page/1293.f54e407d2f1858fb.js",
         "https://joethew.github.io/CarbCounter_page/1459.05727020a06fa034.js",
         "https://joethew.github.io/CarbCounter_page/1577.0c6f2233fcf3eb7f.js",
-        "https://joethew.github.io/CarbCounter_page/1799.13d3ff52b6a197db.js",
+        "https://joethew.github.io/CarbCounter_page/1799.c44007acbf3a6643.js",
         "https://joethew.github.io/CarbCounter_page/2075.1d50318cfc76a34d.js",
         "https://joethew.github.io/CarbCounter_page/2096.4c24f1ca031a5fa5.js",
         "https://joethew.github.io/CarbCounter_page/2144.5d46fa3641b801f2.js",
@@ -76,12 +76,12 @@
         "https://joethew.github.io/CarbCounter_page/9977.450c56dc7dc18582.js",
         "https://joethew.github.io/CarbCounter_page/common.3241dcd1d278222a.js",
         "https://joethew.github.io/CarbCounter_page/index.html",
-        "https://joethew.github.io/CarbCounter_page/main.01a49dd22dbf61be.js",
+        "https://joethew.github.io/CarbCounter_page/main.c76ea34f17c9bb49.js",
         "https://joethew.github.io/CarbCounter_page/manifest.webmanifest",
         "https://joethew.github.io/CarbCounter_page/polyfills-core-js.c76198334f717402.js",
         "https://joethew.github.io/CarbCounter_page/polyfills-dom.bf542500b6fca113.js",
         "https://joethew.github.io/CarbCounter_page/polyfills.3660d5e17bfc3174.js",
-        "https://joethew.github.io/CarbCounter_page/runtime.cb9df2cfe7184bc4.js",
+        "https://joethew.github.io/CarbCounter_page/runtime.b3dbbc27633d8857.js",
         "https://joethew.github.io/CarbCounter_page/styles.0f63c094d0ce5b5c.css"
       ],
       "patterns": []
@@ -117,7 +117,7 @@
     "https://joethew.github.io/CarbCounter_page/1293.f54e407d2f1858fb.js": "288bb206c3321afe67a28a52207d30048bd5f32e",
     "https://joethew.github.io/CarbCounter_page/1459.05727020a06fa034.js": "472ea1f839cea8a316f1643dfd669bc8d8449fe1",
     "https://joethew.github.io/CarbCounter_page/1577.0c6f2233fcf3eb7f.js": "c758fb042d2c69f0edcf55bbd09ee0d814fe0ac5",
-    "https://joethew.github.io/CarbCounter_page/1799.13d3ff52b6a197db.js": "6077015c496a3962a3c2e72c05a559798baec779",
+    "https://joethew.github.io/CarbCounter_page/1799.c44007acbf3a6643.js": "d49a412d8dc6863cfe90ff457044199007346f34",
     "https://joethew.github.io/CarbCounter_page/2075.1d50318cfc76a34d.js": "acb05674eb09f78a7410de9cac9e9b8d34ba533c",
     "https://joethew.github.io/CarbCounter_page/2096.4c24f1ca031a5fa5.js": "1b5dfc367a7d8be96c081b04155fa3ff31cb664d",
     "https://joethew.github.io/CarbCounter_page/2144.5d46fa3641b801f2.js": "350ab6d3fda1fc487636cddd85d01a9dd789336d",
@@ -186,13 +186,13 @@
     "https://joethew.github.io/CarbCounter_page/assets/icons/icon-96.webp": "67c6762322b3ec674ddd65c5f01f069cade0b7d3",
     "https://joethew.github.io/CarbCounter_page/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
     "https://joethew.github.io/CarbCounter_page/common.3241dcd1d278222a.js": "9f4dc275976a17eb598d80733336cb35eebeb8b1",
-    "https://joethew.github.io/CarbCounter_page/index.html": "41fc7dfc177e0f8be383def759e442d1d332224c",
-    "https://joethew.github.io/CarbCounter_page/main.01a49dd22dbf61be.js": "6cbb40c0297ca291a255af4a0a13f18ecdb3fb5b",
+    "https://joethew.github.io/CarbCounter_page/index.html": "cbf19d05fd0e83e20551ec405c5db65494c9c89c",
+    "https://joethew.github.io/CarbCounter_page/main.c76ea34f17c9bb49.js": "b5a42e7b043a1126e3979dd841cefc22becf4458",
     "https://joethew.github.io/CarbCounter_page/manifest.webmanifest": "fdcc5014fa07148227d7d432fcca873d13ef338d",
     "https://joethew.github.io/CarbCounter_page/polyfills-core-js.c76198334f717402.js": "d6e270a2944b6a95a9b97dafd25599ba825e8d7f",
     "https://joethew.github.io/CarbCounter_page/polyfills-dom.bf542500b6fca113.js": "3fa333db66c8050f12e99d977f5098a6de8dd593",
     "https://joethew.github.io/CarbCounter_page/polyfills.3660d5e17bfc3174.js": "1555db3dc651cc2e579ac5f08fc79ae0cbdd20ff",
-    "https://joethew.github.io/CarbCounter_page/runtime.cb9df2cfe7184bc4.js": "ab4b6a765acdf2bf5ca73f1a092e9618317fe1c6",
+    "https://joethew.github.io/CarbCounter_page/runtime.b3dbbc27633d8857.js": "bedf47d600c04e52bf69a1ea3d00fa088f69cd84",
     "https://joethew.github.io/CarbCounter_page/styles.0f63c094d0ce5b5c.css": "34b9b43f83a2778e28eaf89e67d0ecae4aa33c39"
   },
   "navigationUrls": [
