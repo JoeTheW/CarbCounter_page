@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1716467821998,
+  "timestamp": 1716469151870,
   "index": "https://joethew.github.io/CarbCounter_page/index.html",
   "assetGroups": [
     {
@@ -82,7 +82,7 @@
         "https://joethew.github.io/CarbCounter_page/9977.450c56dc7dc18582.js",
         "https://joethew.github.io/CarbCounter_page/common.b5bfa1aef22c0077.js",
         "https://joethew.github.io/CarbCounter_page/index.html",
-        "https://joethew.github.io/CarbCounter_page/main.fbeff636066d7683.js",
+        "https://joethew.github.io/CarbCounter_page/main.483ba03900887ff3.js",
         "https://joethew.github.io/CarbCounter_page/manifest.webmanifest",
         "https://joethew.github.io/CarbCounter_page/polyfills-core-js.c76198334f717402.js",
         "https://joethew.github.io/CarbCounter_page/polyfills-dom.bf542500b6fca113.js",
@@ -470,8 +470,8 @@
     "https://joethew.github.io/CarbCounter_page/assets/icons/icon-96.webp": "67c6762322b3ec674ddd65c5f01f069cade0b7d3",
     "https://joethew.github.io/CarbCounter_page/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
     "https://joethew.github.io/CarbCounter_page/common.b5bfa1aef22c0077.js": "e1a68adb9b9ae90d239dc498f003147c030657eb",
-    "https://joethew.github.io/CarbCounter_page/index.html": "d4d22391eed16a7326e48322833d3de0c76fd2b1",
-    "https://joethew.github.io/CarbCounter_page/main.fbeff636066d7683.js": "61d126e1a8060c50c969f4c4e3804792bebd63b7",
+    "https://joethew.github.io/CarbCounter_page/index.html": "d2b64f334f9b58057c4b70e5474ca464ed2decb1",
+    "https://joethew.github.io/CarbCounter_page/main.483ba03900887ff3.js": "45f14a6193ccd1bbe45a48ec91333443a2a74940",
     "https://joethew.github.io/CarbCounter_page/manifest.webmanifest": "fdcc5014fa07148227d7d432fcca873d13ef338d",
     "https://joethew.github.io/CarbCounter_page/polyfills-core-js.c76198334f717402.js": "d6e270a2944b6a95a9b97dafd25599ba825e8d7f",
     "https://joethew.github.io/CarbCounter_page/polyfills-dom.bf542500b6fca113.js": "3fa333db66c8050f12e99d977f5098a6de8dd593",
